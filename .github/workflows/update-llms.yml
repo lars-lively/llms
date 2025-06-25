@@ -40,3 +40,12 @@ jobs:
       run: |
         # Optional: Add upload script here
         echo "LLMS.txt updated successfully!"
+
+    - name: Show git remote
+      run: |
+        git remote -v
+
+    - name: Test auth with token
+      run: |
+        curl -H "Authorization: token ${{ secrets.GH_PAT }}" https://api.github.com/repos/lars-lively/llms
+
