@@ -35,7 +35,7 @@ jobs:
         git diff --staged --quiet || git commit -m "Auto-update llms.txt - $(date)"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.UPDATE_LLMS }}
     
     - name: Upload to Webflow (if configured)
       run: |
