@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Laat GitHub Actions naar de repo schrijven
+  contents: write  # Laat GitHub Actions schrijven naar de repo
 
 jobs:
   update-llms:
@@ -35,8 +35,6 @@ jobs:
       run: |
         git config --local user.email "l.drontmann@lively.nl"
         git config --local user.name "Lars"
-        git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/lars-lively/llms.git
         git add llms.txt
         git diff --staged --quiet || git commit -m "Auto-update llms.txt - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-        git push origin HEAD:main
-
+        git push
