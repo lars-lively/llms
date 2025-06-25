@@ -27,15 +27,16 @@ jobs:
       run: |
         python update_llms_txt.py
     
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "l.drontmann@lively.nl"
-        git config --local user.name "Lars"
-        git add llms.txt
-        git diff --staged --quiet || git commit -m "Auto-update llms.txt - $(date)"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.UPDATE_LLMS }}
+- name: Commit and push changes
+  env:
+    GH_PAT: ${{ secrets.GH_PAT }}
+  run: |
+    git config --local user.email "l.drontmann@lively.nl"
+    git config --local user.name "Lars"
+    git add llms.txt
+    git diff --staged --quiet || git commit -m "Auto-update llms.txt - $(date)"
+    git push https://x-access-token:${GH_PAT}@github.com/lars-lively/llms.git HEAD:main
+
     
     - name: Upload to Webflow (if configured)
       run: |
