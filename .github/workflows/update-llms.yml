@@ -33,8 +33,10 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
+        git config --local user.email "l.drontmann@lively.nl"
+        git config --local user.name "Lars"
+        git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/lars-lively/llms.git
         git add llms.txt
         git diff --staged --quiet || git commit -m "Auto-update llms.txt - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-        git push
+        git push origin HEAD:main
+
