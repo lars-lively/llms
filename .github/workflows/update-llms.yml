@@ -49,3 +49,8 @@ jobs:
       run: |
         curl -H "Authorization: token ${{ secrets.GH_PAT }}" https://api.github.com/repos/lars-lively/llms
 
+    - name: Debug git info
+      run: |
+        git branch -a
+        git remote -v
+
