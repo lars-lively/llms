@@ -1,7 +1,7 @@
 # llms.txt for lively.nl
-# Last updated: 2025-10-06
+# Last updated: 2025-10-13
 # Generated automatically by Lively website scraper
-# Total pages: 148
+# Total pages: 152
 
 Contact: info@lively.nl
 
@@ -26,8 +26,8 @@ Data-Removal-Request: info@lively.nl
   language: en
   page_type: en
   tags: ['software', 'event', 'app']
-  content_length: 8845
-  word_count: 1133
+  content_length: 8991
+  word_count: 1153
   main_headings: ['OrganizeEfficient.Innovate Events.', 'Software', 'Our success stories']
 
 - url: https://www.lively.nl
@@ -35,9 +35,9 @@ Data-Removal-Request: info@lively.nl
   description: Lively is een event tech agency dat organisaties helpt met software voor eventregistratie, badge printing en b2b matchmaking. Een praktische oplossing voor zakelijke evenementen.
   language: nl
   page_type: home
-  tags: ['software', 'event', 'app', 'registratie']
-  content_length: 9105
-  word_count: 1135
+  tags: ['software', 'registratie', 'event', 'app']
+  content_length: 9251
+  word_count: 1155
   main_headings: ['EfficiÃ«nt Organiseren.Events â\x80¨Innoveren.Â', 'functionaliteiten', 'Onze Succesverhalen']
 
 - url: https://www.lively.nl/en/event-software
@@ -55,7 +55,7 @@ Data-Removal-Request: info@lively.nl
   description: Ontdek veelzijdige event software en event technologie voor elk type evenement. Van event registratie software en event badge printing tot b2b matchmaking software en event apps. Als jouw event tec...
   language: nl
   page_type: event-software
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 10161
   word_count: 1238
   main_headings: ['voor', 'tijdens', 'na']
@@ -73,7 +73,7 @@ Data-Removal-Request: info@lively.nl
   title: Kennis
   language: nl
   page_type: kennis
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 2662
   word_count: 225
   main_headings: ['Cases', 'We helpen je graag verder', 'Vrijblijvend gesprek']
@@ -83,7 +83,7 @@ Data-Removal-Request: info@lively.nl
   description: Lively is a leading event tech agency based in the Netherlands. We help companies to organize events more efficiently and innovate with the world's best event technology. From implementation to int...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'about']
+  tags: ['about', 'software', 'event', 'app']
   content_length: 3588
   word_count: 418
   main_headings: ['The Most Flexible and Innovative Event Tech Agency', 'What we do', 'History']
@@ -93,7 +93,7 @@ Data-Removal-Request: info@lively.nl
   description: Lively is dÃ© event tech agency uit Nederland. Wij helpen organisaties efficiÃ«nter en innovatiever evenementen te organiseren met s'werelds beste event technologie. Van implementatie tot integrati...
   language: nl
   page_type: over-ons
-  tags: ['registratie', 'app', 'about', 'software', 'event']
+  tags: ['event', 'app', 'about', 'software', 'registratie']
   content_length: 3737
   word_count: 426
   main_headings: ['Het meest flexibele en innovatieve event tech bureau', 'wat wij doen', 'Geschiedenis']
@@ -102,25 +102,25 @@ Data-Removal-Request: info@lively.nl
   title: Congressen & Conferenties
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'registratie']
-  content_length: 5332
-  word_count: 675
+  tags: ['software', 'registratie', 'event', 'app']
+  content_length: 5404
+  word_count: 684
   main_headings: ['Congressen & Conferenties', 'Uitnodigingen& Reminders', 'Uitnodigingen& Reminders']
 
 - url: https://www.lively.nl/congressen-conferenties
   title: Congressen & Conferenties
   language: nl
   page_type: congressen-conferenties
-  tags: ['software', 'event', 'app', 'registratie']
-  content_length: 5468
-  word_count: 678
+  tags: ['software', 'registratie', 'event', 'app']
+  content_length: 5540
+  word_count: 687
   main_headings: ['Congressen & Conferenties', 'Uitnodigingen& Reminders', 'Uitnodigingen& Reminders']
 
 - url: https://www.lively.nl/en/staging
   title: Test
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 8262
   word_count: 1018
   main_headings: ['test osofijsd oijsdf das[pdfks', 'Projectmanagement & Setup', 'Complexe Registratie']
@@ -129,7 +129,7 @@ Data-Removal-Request: info@lively.nl
   title: Test
   language: nl
   page_type: staging
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 8307
   word_count: 1006
   main_headings: ['test osofijsd oijsdf das[pdfks', 'Projectmanagement & Setup', 'Complexe Registratie']
@@ -149,10 +149,10 @@ Data-Removal-Request: info@lively.nl
   description: Maak evenement registratie eenvoudig met onze flexibele event registratie software. Van een op maat gemaakte eventwebsite en uitnodigingen tot badges, betalingen en lead scanning. Wij verzorgen de ...
   language: nl
   page_type: expertise
-  tags: ['software', 'event', 'app', 'registratie']
-  content_length: 3913
-  word_count: 473
-  main_headings: ['Registratie', 'Projectmanagement & Setup', 'Complexe Registratie']
+  tags: ['software', 'registratie', 'event', 'app']
+  content_length: 3928
+  word_count: 475
+  main_headings: ['Event Registratie Software', 'Projectmanagement & Setup', 'Complexe Registratie']
 
 - url: https://www.lively.nl/en/expertise/event-badge-printing
   title: Event Badge Printing | Fast and Professional Check-in
@@ -169,7 +169,7 @@ Data-Removal-Request: info@lively.nl
   description: Maak een sterke eerste indruk met event badge printing. Print badges on-site, voer last-minute wijzigingen door en verbeter de doorstroom bij jouw event. Kies voor een duurzame, efficiÃ«nte oplossi...
   language: nl
   page_type: expertise
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 3840
   word_count: 442
   main_headings: ['Badge Printing & Checkin', 'Verbeter de on-site eventbeleving', 'Printers en badges voor elke omvang en budget']
@@ -189,7 +189,7 @@ Data-Removal-Request: info@lively.nl
   description: Ontdek de beste evenement software en event management software voor jouw organisatie. Van selectie tot implementatie: wij adviseren, trainen en integreren met platforms zoals Swoogo, Grip en Cvent...
   language: nl
   page_type: expertise
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 5440
   word_count: 647
   main_headings: ['Event Software & Implementatie', 'Onze volwaardige technologiepartners', 'Enterprise Ready']
@@ -209,7 +209,7 @@ Data-Removal-Request: info@lively.nl
   description: Kies een totaaloplossing voor jouw event, inclusief een op maat gemaakte event app, on-demand badge printing en flexibele registratie. Geen jaarlicenties, wel volledig beheerbaar en deskundige onde...
   language: nl
   page_type: expertise
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 3368
   word_count: 360
   main_headings: ['Totaaloplossing voor individuele events', 'Onze specialisten houden voor jou het overzicht, over elk detail.', 'Werkwijze']
@@ -229,7 +229,7 @@ Data-Removal-Request: info@lively.nl
   description: Laat jouw systemen naadloos samenwerken met de hulp van onze event tech consultancy en integraties. Als event tech specialisten koppelen we tools zoals CRMâs (HubSpot, Salesforce) en event apps. ...
   language: nl
   page_type: expertise
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 3466
   word_count: 389
   main_headings: ['Consultancy & Integraties', 'Wij bouwen 100+ integraties per jaar', 'Quickscan Workshop']
@@ -249,7 +249,7 @@ Data-Removal-Request: info@lively.nl
   description: Boost waardevolle connecties op jouw event met AI-gedreven matchmaking tools. Onze b2b matchmaking software en event matchmaking app zorgen voor slimme koppelingen, swipe-to-match, speeddates en ne...
   language: nl
   page_type: expertise
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 4704
   word_count: 573
   main_headings: ['Event App & Matchmaking', 'Hoe integreer je matchmaking in jouw evenement', 'Wat is matchmaking?']
@@ -258,7 +258,7 @@ Data-Removal-Request: info@lively.nl
   title: Prijzen
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 8508
   word_count: 1128
   main_headings: ['Prices', 'registration', 'event app']
@@ -267,7 +267,7 @@ Data-Removal-Request: info@lively.nl
   title: Prijzen
   language: nl
   page_type: prijzen
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 8801
   word_count: 1103
   main_headings: ['Prijzen', 'registratie', 'event app']
@@ -276,25 +276,25 @@ Data-Removal-Request: info@lively.nl
   title: Artikelen
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 4272
-  word_count: 453
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 4369
+  word_count: 463
   main_headings: ['Insights', 'We are happy to help you', 'Get in touch']
 
 - url: https://www.lively.nl/kennis/insights
   title: Artikelen
   language: nl
   page_type: kennis
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 4359
-  word_count: 444
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 4456
+  word_count: 454
   main_headings: ['Insights', 'We helpen je graag verder', 'Vrijblijvend gesprek']
 
 - url: https://www.lively.nl/en/knowledge/videos
   title: Videos
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 2058
   word_count: 189
   main_headings: ['Videos', 'Software Implementation', 'Registration']
@@ -303,7 +303,7 @@ Data-Removal-Request: info@lively.nl
   title: Videos
   language: nl
   page_type: kennis
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 2094
   word_count: 194
   main_headings: ['Videos', 'Software Implementatie', 'Registratie']
@@ -312,7 +312,7 @@ Data-Removal-Request: info@lively.nl
   title: Contact
   language: en
   page_type: en
-  tags: ['software', 'contact', 'event', 'app']
+  tags: ['contact', 'software', 'event', 'app']
   content_length: 6588
   word_count: 919
   main_headings: ['We are happy to help you', 'FAQ', 'The Team']
@@ -321,7 +321,7 @@ Data-Removal-Request: info@lively.nl
   title: Contact
   language: nl
   page_type: contact
-  tags: ['registratie', 'contact', 'app', 'software', 'event']
+  tags: ['event', 'app', 'software', 'registratie', 'contact']
   content_length: 6850
   word_count: 911
   main_headings: ['Wij helpen je graag verder', 'Veelgestelde vragen', 'Het Team']
@@ -330,7 +330,7 @@ Data-Removal-Request: info@lively.nl
   title: Vacatures
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'about']
+  tags: ['about', 'software', 'event', 'app']
   content_length: 3488
   word_count: 417
   main_headings: ['Join our growing Tech Agency', 'Working at Lively', 'open vacancies']
@@ -339,7 +339,7 @@ Data-Removal-Request: info@lively.nl
   title: Vacatures
   language: nl
   page_type: over-ons
-  tags: ['registratie', 'app', 'about', 'software', 'event']
+  tags: ['event', 'app', 'about', 'software', 'registratie']
   content_length: 3714
   word_count: 435
   main_headings: ['Sluit je aan bij onze groeiende Tech Agency', 'Werken bij Lively', 'openstaande vacatures']
@@ -357,7 +357,7 @@ Data-Removal-Request: info@lively.nl
   title: Demo aanvragen
   language: nl
   page_type: demo-aanvragen
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 6903
   word_count: 917
   main_headings: ['Gratis Demo', 'Veelgestelde vragen', 'Het Team']
@@ -375,7 +375,7 @@ Data-Removal-Request: info@lively.nl
   title: Prijsberekening
   language: nl
   page_type: prijsberekening
-  tags: ['registratie', 'app', 'software', 'pricing', 'event']
+  tags: ['event', 'app', 'pricing', 'software', 'registratie']
   content_length: 6906
   word_count: 914
   main_headings: ['Prijsberekening', 'Veelgestelde vragen', 'Het Team']
@@ -393,7 +393,7 @@ Data-Removal-Request: info@lively.nl
   title: Webinars & Events
   language: nl
   page_type: kennis
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 1903
   word_count: 177
   main_headings: ['Webinars &Â\xa0Events', 'Matchmaking', 'Beurs']
@@ -411,7 +411,7 @@ Data-Removal-Request: info@lively.nl
   title: Privacy policy & Cookie policy
   language: nl
   page_type: privacy-policy-cookie-policy
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 6323
   word_count: 846
   main_headings: ['Privacy & Cookie Policy', 'Privacy Statement', 'Your Account']
@@ -429,7 +429,7 @@ Data-Removal-Request: info@lively.nl
   title: Bedankt
   language: nl
   page_type: bedankt-demo-aanvragen
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 642
   word_count: 61
   main_headings: ['Bedankt!']
@@ -438,7 +438,7 @@ Data-Removal-Request: info@lively.nl
   title: Bedankt Contact Opnemen
   language: en
   page_type: en
-  tags: ['software', 'contact', 'event', 'app']
+  tags: ['contact', 'software', 'event', 'app']
   content_length: 651
   word_count: 64
   main_headings: ['Thank you!']
@@ -447,7 +447,7 @@ Data-Removal-Request: info@lively.nl
   title: Bedankt Contact Opnemen
   language: nl
   page_type: bedankt-utm-nooverride-1
-  tags: ['registratie', 'contact', 'app', 'software', 'event']
+  tags: ['event', 'app', 'software', 'registratie', 'contact']
   content_length: 653
   word_count: 61
   main_headings: ['Bedankt!']
@@ -465,7 +465,7 @@ Data-Removal-Request: info@lively.nl
   title: Bedankt Prijberekening
   language: nl
   page_type: bedankt-prijsberekening-utm-nooverride-1
-  tags: ['registratie', 'app', 'software', 'pricing', 'event']
+  tags: ['event', 'app', 'pricing', 'software', 'registratie']
   content_length: 659
   word_count: 60
   main_headings: ['Bedankt!']
@@ -475,17 +475,17 @@ Data-Removal-Request: info@lively.nl
   language: en
   page_type: en
   tags: ['software', 'event', 'app']
-  content_length: 2497
-  word_count: 286
+  content_length: 2570
+  word_count: 296
   main_headings: ['We are happy to help you', 'Get in touch', 'Demo']
 
 - url: https://www.lively.nl/nieuwsbrief
   title: Nieuwsbrief
   language: nl
   page_type: nieuwsbrief
-  tags: ['software', 'event', 'app', 'registratie']
-  content_length: 2832
-  word_count: 321
+  tags: ['software', 'registratie', 'event', 'app']
+  content_length: 2905
+  word_count: 331
   main_headings: ['Meld je aan voor de nieuwsbrief!', 'We helpen je graag verder', 'Vrijblijvend gesprek']
 
 - url: https://www.lively.nl/en/thanks-for-demo-request-copy
@@ -501,7 +501,7 @@ Data-Removal-Request: info@lively.nl
   title: Bedankt Nieuwsbrief
   language: nl
   page_type: bedankt-nieuwsbrief
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 657
   word_count: 63
   main_headings: ['Bedankt!']
@@ -510,7 +510,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: en
   page_type: en
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 5832
   word_count: 765
   main_headings: ['A seamless registration process for Visionplanner Inspire', 'Klant', 'Project']
@@ -519,7 +519,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 6287
   word_count: 859
   main_headings: ['Een soepel registratieproces voor Visionplanner Inspire', 'Klant', 'Project']
@@ -528,7 +528,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 2697
   word_count: 317
   main_headings: ['B-Corp Summit', 'Klant', 'Project']
@@ -546,7 +546,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 4992
   word_count: 620
   main_headings: ['Flexibiliteit en groei voor PINO', 'Klant', 'Project']
@@ -573,7 +573,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 6710
   word_count: 921
   main_headings: ['Toekomstbestendige software voor 20 events per jaar van FHI', 'Klant', 'Project']
@@ -582,7 +582,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 5950
   word_count: 800
   main_headings: ['Integratie en on-site ondersteuning tijdens IVBM 2024', 'Klant', 'Project']
@@ -609,7 +609,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 2136
   word_count: 231
   main_headings: ['Interne Roadshow', 'Klant', 'Project']
@@ -618,7 +618,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 4995
   word_count: 625
   main_headings: ['â\x80\x8bITC DIA 2024', 'Klant', 'Project']
@@ -636,7 +636,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 4845
   word_count: 597
   main_headings: ['Maastricht University', 'Klant', 'Project']
@@ -654,7 +654,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 4275
   word_count: 506
   main_headings: ['Een toekomstbestendig systeem voor Sanquin Health Solutions', 'Klant', 'Project']
@@ -672,7 +672,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: cases
-  tags: ['registratie', 'app', 'software', 'event', 'cases']
+  tags: ['event', 'app', 'cases', 'software', 'registratie']
   content_length: 4292
   word_count: 534
   main_headings: ['Sijthoff Media', 'Klant', 'Project']
@@ -691,9 +691,9 @@ Data-Removal-Request: info@lively.nl
   description: Tijd besparen. Welke eventorganisator wil dat nou niet? Je bent als organisator het liefst met de inhoud bezig en niet met ad-hoc zaken die je dag opslokken. Het inzetten van event tech kan je help...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 14035
-  word_count: 2009
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 14181
+  word_count: 2029
   main_headings: ['11 tijdbesparende functionaliteiten die niet mogen ontbreken in je eventsoftware', '1. Alle informatie centraal in Ã©Ã©n content hub', '2. Dupliceer templates en themaâ\x80\x99s vanuit een bibliotheek']
 
 - url: https://www.lively.nl/en/blogs/11-time-saving-features-that-should-not-be-missing-in-your-event-software
@@ -701,9 +701,9 @@ Data-Removal-Request: info@lively.nl
   description: Save time. Which event organizer wouldn't want that? As an organizer, you prefer to focus on the content and not with ad-hoc things that consume your day. Using event tech can help you use your tim...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 15434
-  word_count: 2323
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 15580
+  word_count: 2343
   main_headings: ['11 time-saving features that should not be missing in your event software', '1. All information centrally in one content hub', '2. Duplicate templates and themes from a library']
 
 - url: https://www.lively.nl/blogs/5-redenen-waarom-je-eventteam-zo-vaak-achter-de-feiten-aan-loopt-en-klaagt
@@ -711,9 +711,9 @@ Data-Removal-Request: info@lively.nl
   description: Door: Louana Bellettini
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 7218
-  word_count: 973
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 7364
+  word_count: 993
   main_headings: ['5 redenen waarom je eventteam zo vaak achter de feiten aan loopt (en klaagt)', 'Meer Trends, ontwikkelingen en nieuws', 'We helpen je graag verder']
 
 - url: https://www.lively.nl/en/blogs/5-redenen-waarom-je-eventteam-zo-vaak-achter-de-feiten-aan-loopt-en-klaagt
@@ -721,9 +721,9 @@ Data-Removal-Request: info@lively.nl
   description: Door: Louana Bellettini
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 8920
-  word_count: 1237
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 9066
+  word_count: 1257
   main_headings: ['5 reasons why your event team is often behind (and complains)', 'More Trends, developments and news', 'We are happy to help you']
 
 - url: https://www.lively.nl/blogs/7-aandachtspunten-voor-een-schaalbare-eventaanpak
@@ -731,9 +731,9 @@ Data-Removal-Request: info@lively.nl
   description: Organiseer je meer dan een paar events per jaar? Deze checklist helpt je ontdekken of jouw eventaanpak klaar is om op te schalen met minder handwerk, meer structuur en betere data.Door: Louana Bell...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 6463
-  word_count: 820
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 6609
+  word_count: 840
   main_headings: ['7 aandachtspunten voor een schaalbare eventaanpak', 'Meer Trends, ontwikkelingen en nieuws', 'We helpen je graag verder']
 
 - url: https://www.lively.nl/en/blogs/7-aandachtspunten-voor-een-schaalbare-eventaanpak
@@ -741,9 +741,9 @@ Data-Removal-Request: info@lively.nl
   description: Do you organize more than a few events per year? This checklist helps you discover whether your event approach is ready to scale up with less manual work, more structure, and better data.Door: Loua...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 8382
-  word_count: 1124
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 8528
+  word_count: 1144
   main_headings: ['7 points of attention for a scalable event approach', 'More Trends, developments and news', 'We are happy to help you']
 
 - url: https://www.lively.nl/blogs/checklist-werk-je-met-een-echte-event-tech-partner-of-een-software-ontwikkelaar
@@ -751,9 +751,9 @@ Data-Removal-Request: info@lively.nl
   description: Ben je klaar met de chaos van losse tools en vage softwareclubs? Ontdek in deze checklist of je Ã©cht samenwerkt met een event tech partner die met je meedenkt â of dat je stiekem gewoon weer een...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 5958
-  word_count: 787
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 6104
+  word_count: 807
   main_headings: ['Checklist: Werk je met een echte event tech partner, of een software ontwikkelaar?', 'Meer Trends, ontwikkelingen en nieuws', 'We helpen je graag verder']
 
 - url: https://www.lively.nl/en/blogs/checklist-werk-je-met-een-echte-event-tech-partner-of-een-software-ontwikkelaar
@@ -761,9 +761,9 @@ Data-Removal-Request: info@lively.nl
   description: Are you done with the chaos of separate tools and vague software clubs? Find out in this checklist whether you're really working with an event tech partner who thinks along with you â or if you'r...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 7824
-  word_count: 1060
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 7970
+  word_count: 1080
   main_headings: ['Checklist: Are you working with a real event tech partner, or a software developer?', 'More Trends, developments and news', 'We are happy to help you']
 
 - url: https://www.lively.nl/blogs/de-10-meest-gemaakte-fouten-in-eventregistratie-door-marketeers
@@ -771,9 +771,9 @@ Data-Removal-Request: info@lively.nl
   description: Bezoekers werven voor je event is Ã©Ã©n ding. Heb je ze overtuigd met inspirerende content, indrukwekkende sprekers en een relevante gastenlijst? Dan mag het niet misgaan bij de registratie. Een so...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 13198
-  word_count: 1849
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 13344
+  word_count: 1869
   main_headings: ['De 10 meest gemaakte fouten in eventregistratie door marketeers', '1. Een onnodig complexe basisregistratie', '2. Onduidelijk privacybeleid & leadsharing']
 
 - url: https://www.lively.nl/en/blogs/the-10-most-common-mistakes-in-event-registration-by-marketers
@@ -781,9 +781,9 @@ Data-Removal-Request: info@lively.nl
   description: Attracting attendees to your event is one thing. Did you convince them with inspiring content, impressive speakers and a relevant guest list? Then things should not go wrong when registering. Smoot...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 14488
-  word_count: 2148
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 14634
+  word_count: 2168
   main_headings: ['The 10 most common mistakes in event registration by marketers', '1. An unnecessarily complex basic registration', '2. Unclear privacy policy & lead sharing']
 
 - url: https://www.lively.nl/blogs/de-event-tech-trends-van-2024-dit-staat-ons-te-wachten
@@ -791,9 +791,9 @@ Data-Removal-Request: info@lively.nl
   description: Als event tech agency zijn we continu bezig met de laatste technologieÃ«n. Daarom werpen we in deze blog een blik op de events van morgen en welke nieuwe toepassingen vanaf volgend jaar de eventbra...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 13478
-  word_count: 1872
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 13624
+  word_count: 1892
   main_headings: ['De event tech trends van 2024: dit staat ons te wachten', '1. Event platformen worden steeds completer', '2. Hybride events winnen nÃ³g meer terrein']
 
 - url: https://www.lively.nl/en/blogs/the-event-tech-trends-of-2024-what-awaits-us
@@ -801,19 +801,39 @@ Data-Removal-Request: info@lively.nl
   description: As an event tech agency, we are constantly working on the latest technologies. That's why in this blog, we take a look at tomorrow's events and what new applications will dominate the event industr...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 14898
-  word_count: 2160
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 15044
+  word_count: 2180
   main_headings: ['The event tech trends of 2024: what awaits us', '1. Event platforms are becoming increasingly complete', '2. Hybrid events are gaining even more ground']
+
+- url: https://www.lively.nl/blogs/de-spotlight-op-lively-tech-agency
+  title: DE SPOTLIGHT OP | Lively Tech Agency
+  description: Door: Event Inspiration
+  language: nl
+  page_type: blogs
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 4095
+  word_count: 483
+  main_headings: ['DE SPOTLIGHT OP | Lively Tech Agency', 'Meer Trends, ontwikkelingen en nieuws', 'We helpen je graag verder']
+
+- url: https://www.lively.nl/en/blogs/de-spotlight-op-lively-tech-agency
+  title: DE SPOTLIGHT OP | Lively Tech Agency
+  description: Door: Event Inspiration
+  language: en
+  page_type: en
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 5932
+  word_count: 745
+  main_headings: ['DE SPOTLIGHT OP | Lively Tech Agency', 'More Trends, developments and news', 'We are happy to help you']
 
 - url: https://www.lively.nl/en/blogs/digital-accessibility-for-everyone-smart-tips-for-digital-inclusion
   title: Digital accessibility for everyone: smart tips for digital inclusion
   description: Explore the importance of digital accessibility for everyone. Learn how we can make websites and digital services more inclusive. Learn about strategies and best practices that ensure that all user...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 10412
-  word_count: 1435
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 10558
+  word_count: 1455
   main_headings: ['Digital accessibility for everyone: smart tips for digital inclusion', 'What can you expect in this blog?', '1. What is digital accessibility?']
 
 - url: https://www.lively.nl/blogs/digitale-toegankelijkheid-voor-iedereen-slimme-tips-voor-digitale-inclusie
@@ -821,9 +841,9 @@ Data-Removal-Request: info@lively.nl
   description: Verken het belang van digitale toegankelijkheid voor iedereen. Ontdek hoe we websites en digitale diensten inclusiever kunnen maken. Leer meer over strategieÃ«n en best practices die ervoor zorgen ...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 9006
-  word_count: 1203
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 9152
+  word_count: 1223
   main_headings: ['Digitale toegankelijkheid voor iedereen: slimme tips voor digitale inclusie', 'Wat kun je in deze blog verwachten?', '1. Wat is digitale toegankelijkheid?']
 
 - url: https://www.lively.nl/en/blogs/everything-you-need-to-know-about-event-apps
@@ -831,9 +851,9 @@ Data-Removal-Request: info@lively.nl
   description: Mobile event apps are essential for trade shows, conferences, company meetings, and more. Learn how, with the right features, you can increase engagement, optimize networking opportunities, and pro...
   language: en
   page_type: en
-  tags: ['app', 'about', 'software', 'blog', 'event']
-  content_length: 15812
-  word_count: 2252
+  tags: ['event', 'app', 'blog', 'about', 'software']
+  content_length: 15958
+  word_count: 2272
   main_headings: ['Everything you need to know about event apps', 'What can you expect in this blog?', '1. Why an event app?']
 
 - url: https://www.lively.nl/blogs/jouw-gids-voor-het-kiezen-van-de-juiste-event-app-per-type-event
@@ -841,9 +861,9 @@ Data-Removal-Request: info@lively.nl
   description: Mobile event apps zijn onmisbaar voor beurzen, conferenties, bedrijfsbijeenkomsten, en meer. Ontdek hoe je met de juiste functies de betrokkenheid verhoogt, netwerkmogelijkheden optimaliseert en du...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 15084
-  word_count: 2049
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 15230
+  word_count: 2069
   main_headings: ['Kies de juiste event app voor jouw type evenement', '1. Waarom een event app?', '2. Voordelen van mobile event apps op een rijtje']
 
 - url: https://www.lively.nl/en/blogs/feature-flash-1-25
@@ -851,9 +871,9 @@ Data-Removal-Request: info@lively.nl
   description: Learn how Grip, Pigeonhole and Swoogo enhance your event experience with smart new features.Door: Louana Bellettini
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 8864
-  word_count: 1188
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 9010
+  word_count: 1208
   main_headings: ["Feature Flash - 1 '25", 'Contents', '1. Grip: Behaviour-based segmentation for messaging']
 
 - url: https://www.lively.nl/blogs/feature-flash-kwartaal-1-25
@@ -861,9 +881,9 @@ Data-Removal-Request: info@lively.nl
   description: Ontdek hoe Grip, Pigeonhole en Swoogo je eventervaring verbeteren met slimme nieuwe features.Door: Louana Bellettini
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 7358
-  word_count: 956
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 7504
+  word_count: 976
   main_headings: ["Feature Flash - kwartaal 1 '25", 'Inhoud', '1. Grip: Behaviour-based segmentation for messaging']
 
 - url: https://www.lively.nl/blogs/feature-flash-2-2025
@@ -871,9 +891,9 @@ Data-Removal-Request: info@lively.nl
   description: Deze nieuwe productupdates bieden organisatoren meer controle, efficiÃ«ntie en personalisatie bij het plannen en uitvoeren van evenementen. Van slimme AI-beoordeling van sessies tot verbeterde inte...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 6698
-  word_count: 841
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 6844
+  word_count: 861
   main_headings: ["Feature Flash: kwartaal 2 '25", 'Grip: Nieuwe Integratiemogelijkheden WidgetsÂ', 'Sessionboard: AI Evaluations voor Sessieselectie']
 
 - url: https://www.lively.nl/en/blogs/feature-flash-2-2025
@@ -881,9 +901,9 @@ Data-Removal-Request: info@lively.nl
   description: Deze nieuwe productupdates bieden organisatoren meer controle, efficiÃ«ntie en personalisatie bij het plannen en uitvoeren van evenementen. Van slimme AI-beoordeling van sessies tot verbeterde inte...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 8451
-  word_count: 1151
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 8597
+  word_count: 1171
   main_headings: ["Feature Flash: quarter 2 '25", 'Grip: New Widgets Integration Options', 'Sessionboard: AI Evaluations for Session Selection']
 
 - url: https://www.lively.nl/blogs/feature-flash-kwartaal-3
@@ -891,9 +911,9 @@ Data-Removal-Request: info@lively.nl
   description: Het is tijd voor een nieuwe blog over de belangrijkste features en verbeteringen die wij het afgelopen kwartaal hebben geÃ¯ntroduceerd. Of je nu een frequente gebruiker bent van Swoogo of Grip, er ...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 7733
-  word_count: 1015
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 7879
+  word_count: 1035
   main_headings: ['Feature Flash kwartaal 3', 'Wat kun je verwachten in deze blog?', '1. Swoogo: een frisse nieuwe look']
 
 - url: https://www.lively.nl/en/blogs/feature-flash-quarter-3
@@ -901,9 +921,9 @@ Data-Removal-Request: info@lively.nl
   description: It's time for a new blog about the key features and improvements we introduced last quarter. Whether you're a frequent user of Swoogo or Grip, there are a few updates you don't want to miss. Let's ...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 9183
-  word_count: 1260
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 9329
+  word_count: 1280
   main_headings: ['Feature Flash quarter 3', 'What to expect in this blog?', '1. Swoogo: a fresh new look']
 
 - url: https://www.lively.nl/blogs/feature-flash-kwartaal-3-25
@@ -911,9 +931,9 @@ Data-Removal-Request: info@lively.nl
   description: Dit najaar lanceren Sessionboard, Swoogo en ExpoFP nieuwe functies die events slimmer en gebruiksvriendelijker maken. Met AI-herschrijving zorg je voor consistente sessie- en sprekerscontent, custo...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 5447
-  word_count: 675
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 5593
+  word_count: 695
   main_headings: ["Feature Flash: kwartaal 3 '25", 'Meer Trends, ontwikkelingen en nieuws', 'We helpen je graag verder']
 
 - url: https://www.lively.nl/en/blogs/feature-flash-kwartaal-3-25
@@ -921,9 +941,9 @@ Data-Removal-Request: info@lively.nl
   description: This autumn, Sessionboard, Swoogo and ExpoFP will launch new features that make events smarter and easier to use. With AI rewriting, you ensure consistent session and speaker content, custom error ...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 7210
-  word_count: 944
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 7356
+  word_count: 964
   main_headings: ["Feature Flash: Quarter 3 '25", 'More Trends, developments and news', 'We are happy to help you']
 
 - url: https://www.lively.nl/blogs/feature-flash-kwartaal-4
@@ -931,9 +951,9 @@ Data-Removal-Request: info@lively.nl
   description: Het is tijd voor een nieuwe blog over de belangrijkste functies en verbeteringen die we afgelopen kwartaal hebben uitgelicht. Of je nu een frequente gebruiker bent van Swoogo, Grip of Cvent, er zij...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 5964
-  word_count: 744
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 6110
+  word_count: 764
   main_headings: ['Feature Flash kwartaal 4', 'Wat te verwachten in deze blog?', '1. Grip: session attendee list']
 
 - url: https://www.lively.nl/en/blogs/feature-flash-quarter-4
@@ -941,9 +961,9 @@ Data-Removal-Request: info@lively.nl
   description: Het is tijd voor een nieuwe blog over de belangrijkste functies en verbeteringen die we afgelopen kwartaal hebben uitgelicht. Of je nu een frequente gebruiker bent van Swoogo, Grip of Cvent, er zij...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 7640
-  word_count: 1009
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 7786
+  word_count: 1029
   main_headings: ['Feature Flash quarter 4', 'What to expect in this blog?', '1. Grip: session attendee list']
 
 - url: https://www.lively.nl/blogs/help-waar-is-mijn-support-gebleven
@@ -951,9 +971,9 @@ Data-Removal-Request: info@lively.nl
   description: Op cruciale momenten tijdens je eventvoorbereiding â zoals bij een foutmelding of vastlopende knop â blijkt support vaak tekort te schieten door onduidelijke contactpunten, trage ticketafhandel...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 6282
-  word_count: 843
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 6428
+  word_count: 863
   main_headings: ['Help! Waar is mijn support gebleven?', 'Help! Waar is mijn support gebleven?', 'â\x80\x8d']
 
 - url: https://www.lively.nl/en/blogs/help-where-did-my-support-go
@@ -961,9 +981,9 @@ Data-Removal-Request: info@lively.nl
   description: When critical issues arise during event setup or executionâlike broken buttons, failed integrations, or urgent registration needsâsupport often falls short due to unclear contact points, impers...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 8010
-  word_count: 1106
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 8156
+  word_count: 1126
   main_headings: ['Help! Where did my support go?', 'Help! Where did my support go?', 'â\x80\x8d']
 
 - url: https://www.lively.nl/blogs/hoe-frankwatching-de-kracht-van-online-events-ontdekte
@@ -971,9 +991,9 @@ Data-Removal-Request: info@lively.nl
   description: Ontdek hoe Frankwatching de kracht van online events omarmde en fysieke bijeenkomsten transformeerde tot inspirerende digitale ervaringen. Met slimme strategieÃ«n, interactieve content en een scher...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 10757
-  word_count: 1601
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 10903
+  word_count: 1621
   main_headings: ['Hoe Frankwatching de kracht van online events ontdekte.', 'Hoe Frankwatching de kracht van online events ontdekte.', 'Meer Trends, ontwikkelingen en nieuws']
 
 - url: https://www.lively.nl/en/blogs/how-frankwatching-discovered-the-power-of-online-events
@@ -981,9 +1001,9 @@ Data-Removal-Request: info@lively.nl
   description: Learn how Frankwatching embraced the power of online events and transformed physical meetings into inspiring digital experiences. With smart strategies, interactive content and a sharp focus on com...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 12430
-  word_count: 1849
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 12576
+  word_count: 1869
   main_headings: ['How Frankwatching discovered the power of online events', 'How Frankwatching discovered the power of online events', 'More Trends, developments and news']
 
 - url: https://www.lively.nl/blogs/hoe-je-succesvolle-b2b-meetings-faciliteert-op-je-evenement
@@ -991,9 +1011,9 @@ Data-Removal-Request: info@lively.nl
   description: Wij hebben inmiddels ervaring met de organisatie van honderden evenementen en we merken dat de vraag; âWaar organiseren we de fysieke ontmoetingen/zakelijke meetings op ons evenement?â niet zo ...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 9222
-  word_count: 1271
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 9368
+  word_count: 1291
   main_headings: ['Hoe je succesvolle B2B Meetings faciliteert op je evenement', 'Hoe je succesvolle B2B Meetings faciliteert op je evenement', 'De verschillende inrichtingen voor event meeting locaties']
 
 - url: https://www.lively.nl/en/blogs/how-to-facilitate-successful-b2b-meetings-at-your-event
@@ -1001,9 +1021,9 @@ Data-Removal-Request: info@lively.nl
   description: We now have experience in organizing hundreds of events and we notice the question; âWhere do we organize the physical meetings/business meetings at our event?â is not as simple as it sounds. D...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 10531
-  word_count: 1482
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 10677
+  word_count: 1502
   main_headings: ['How to facilitate successful B2B Meetings at your event', 'How to facilitate successful B2B Meetings at your event', 'The various facilities for event meeting locations']
 
 - url: https://www.lively.nl/blogs/keuzestress-koppelingen-en-chaos-tijd-voor-helderheid-in-je-event-tech
@@ -1011,9 +1031,9 @@ Data-Removal-Request: info@lively.nl
   description: Squidy: jouw digitale gids in event tech die overzicht, automatisatie en deelnemersbeleving samenbrengt. Bij Lively combineren we slimme tools tot Ã©Ã©n krachtige workflow, zodat jij je kunt richte...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 5503
-  word_count: 692
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 5649
+  word_count: 712
   main_headings: ['Keuzestress, koppelingen en chaos? Tijd voor helderheid in je event tech', 'â\x80\x8d', 'Meer Trends, ontwikkelingen en nieuws']
 
 - url: https://www.lively.nl/en/blogs/keuzestress-koppelingen-en-chaos-tijd-voor-helderheid-in-je-event-tech
@@ -1021,9 +1041,9 @@ Data-Removal-Request: info@lively.nl
   description: Squidy: your digital guide to event tech that brings together overview, automation and participant experience. At Lively, we combine smart tools into one powerful workflow so you can focus on the c...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 7268
-  word_count: 953
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 7414
+  word_count: 973
   main_headings: ['Stress, connections and chaos? Time for clarity in your event tech', 'â\x80\x8d', 'More Trends, developments and news']
 
 - url: https://www.lively.nl/blogs/lively-als-event-tech-agency
@@ -1031,9 +1051,9 @@ Data-Removal-Request: info@lively.nl
   description: Door: Event Inspiration
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 4036
-  word_count: 470
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 4182
+  word_count: 490
   main_headings: ['Lively als event tech agency: strategische inzet van eventsoftware en integraties', 'Meer Trends, ontwikkelingen en nieuws', 'We helpen je graag verder']
 
 - url: https://www.lively.nl/en/blogs/lively-als-event-tech-agency
@@ -1041,9 +1061,9 @@ Data-Removal-Request: info@lively.nl
   description: Door: Event Inspiration
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 5866
-  word_count: 735
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 6012
+  word_count: 755
   main_headings: ['Lively as event tech agency: strategic use of event software and integrations', 'More Trends, developments and news', 'We are happy to help you']
 
 - url: https://www.lively.nl/blogs/lively-bewijst-dat-eventtechnologie-geen-hoofdpijndossier-meer-hoeft-te-zijn
@@ -1051,9 +1071,9 @@ Data-Removal-Request: info@lively.nl
   description: Door: Bas Veldkamp
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 4026
-  word_count: 468
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 4172
+  word_count: 488
   main_headings: ['Lively bewijst dat eventtechnologie geen hoofdpijndossier meer hoeft te zijn', 'Meer Trends, ontwikkelingen en nieuws', 'We helpen je graag verder']
 
 - url: https://www.lively.nl/en/blogs/lively-bewijst-dat-eventtechnologie-geen-hoofdpijndossier-meer-hoeft-te-zijn
@@ -1061,9 +1081,9 @@ Data-Removal-Request: info@lively.nl
   description: Door: Bas Veldkamp
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 5853
-  word_count: 736
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 5999
+  word_count: 756
   main_headings: ['Lively proves that event technology no longer has to be a headache file', 'More Trends, developments and news', 'We are happy to help you']
 
 - url: https://www.lively.nl/blogs/lively-implementatiepartner-van-grip-software-voor-rai-en-jaarbeurs
@@ -1071,9 +1091,9 @@ Data-Removal-Request: info@lively.nl
   description: Vanaf 2021 mag Lively zich de preferred supplier noemen voor alle B2B titels van RAI Amsterdam en Jaarbeurs Utrecht. Met het aanbieden van Grip (market engagement platform) is Lively dÃ© implementa...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 6521
-  word_count: 823
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 6667
+  word_count: 843
   main_headings: ['Lively implementatiepartner van Grip software voor RAI en Jaarbeurs', 'Meer Trends, ontwikkelingen en nieuws', 'We helpen je graag verder']
 
 - url: https://www.lively.nl/en/blogs/lively-implementation-partner-of-grip-software-for-rai-and-jaarbeurs
@@ -1081,9 +1101,9 @@ Data-Removal-Request: info@lively.nl
   description: From 2021, Lively can call himself the preferred supplier for all B2B titles at RAI Amsterdam and Jaarbeurs Utrecht. By offering Grip (market engagement platform), Lively is the implementation part...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 8219
-  word_count: 1083
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 8365
+  word_count: 1103
   main_headings: ['Lively implementation partner of Grip software for RAI and Jaarbeurs', 'More Trends, developments and news', 'We are happy to help you']
 
 - url: https://www.lively.nl/blogs/netwerkprofielen
@@ -1091,9 +1111,9 @@ Data-Removal-Request: info@lively.nl
   description: Elke eventspecialist die aan de top van zijn spel wil staan, moet constant manieren vinden om de beleving van deelnemers op revolutionaire wijze te verbeteren. Kunstmatige intelligentie transformee...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 9673
-  word_count: 1351
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 9819
+  word_count: 1371
   main_headings: ['Verschillende Netwerkprofielen', 'Netwerkprofielen', 'Zes netwerkprofielen die elke organisator zou moeten kennen']
 
 - url: https://www.lively.nl/en/blogs/network-profiles
@@ -1101,9 +1121,9 @@ Data-Removal-Request: info@lively.nl
   description: Every event specialist who wants to be at the top of their game must constantly find ways to revolutionize participants' experiences. Artificial intelligence is transforming the entire event indust...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 10945
-  word_count: 1568
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 11091
+  word_count: 1588
   main_headings: ['Network profiles', 'Network profiles', 'Six network profiles that every organizer should know']
 
 - url: https://www.lively.nl/en/blogs/on-site-badge-printing-at-your-event-everything-you-need-to-know
@@ -1111,9 +1131,9 @@ Data-Removal-Request: info@lively.nl
   description: On-site badge printing is very important role in the first impression of events. Whether you choose colorful prints that attract attention or simple labels, the options are extensive and the choice...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 23203
-  word_count: 3512
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 23349
+  word_count: 3532
   main_headings: ['On-site badge printing at your event: everything you need to know', '1. What exactly is on-site badge printing?', '2. Why do we (still) use badges?']
 
 - url: https://www.lively.nl/blogs/on-site-badge-printing-op-je-event-alles-wat-je-moet-weten
@@ -1121,19 +1141,39 @@ Data-Removal-Request: info@lively.nl
   description: Het succes van elk evenement begint bij de eerste indruk die je maakt. On-site badge printing speelt daar een belangrijke rol in. Of je nu kiest voor kleurrijke prints die de aandacht trekken of ju...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 13224
-  word_count: 1862
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 13370
+  word_count: 1882
   main_headings: ['On-site badge printing op je event: alles wat je moet weten', '1. Wat is on-site badge printing eigenlijk?', '2. Waarom gebruiken we (nog) badges?']
+
+- url: https://www.lively.nl/blogs/on-site-badge-printing-duurder-dan-je-denkt-en-toch-elke-euro-waard
+  title: On-site badge printing: duurder dan je denkt en toch elke euro waard
+  description: On-site badge printing gaat veel verder dan een printer neerzetten: het is een complete check-in oplossing die zorgt voor een soepele registratie, snelle toegang en een sterke eerste indruk. Hoewel...
+  language: nl
+  page_type: blogs
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 6543
+  word_count: 831
+  main_headings: ['On-site badge printing: duurder dan je denkt en toch elke euro waard', 'On-site badge printing: duurder dan je denkt en toch elke euro waard', 'Meer Trends, ontwikkelingen en nieuws']
+
+- url: https://www.lively.nl/en/blogs/on-site-badge-printing-duurder-dan-je-denkt-en-toch-elke-euro-waard
+  title: On-site badge printing: more expensive than you think and still worth every euro
+  description: On-site badge printing goes far beyond setting up a printer: it's a complete check-in solution that ensures smooth registration, quick access and a strong first impression. Although it seems more e...
+  language: en
+  page_type: en
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 8350
+  word_count: 1100
+  main_headings: ['On-site badge printing: more expensive than you think and still worth every euro', 'On-site badge printing: more expensive than you think and still worth every euro', 'More Trends, developments and news']
 
 - url: https://www.lively.nl/en/blogs/this-is-how-we-look-at-event-data
   title: This is how we look at Event Data
   description: Door: Lively
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 10062
-  word_count: 1393
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 10208
+  word_count: 1413
   main_headings: ['This is how we look at Event Data', 'This is how we look at Event Data', 'More Trends, developments and news']
 
 - url: https://www.lively.nl/blogs/zo-kijken-we-naar-event-data
@@ -1141,9 +1181,9 @@ Data-Removal-Request: info@lively.nl
   description: Door: Lively
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 8749
-  word_count: 1167
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 8895
+  word_count: 1187
   main_headings: ['Zo kijken we naar Event Data', 'Zo kijken we naar Event Data', 'Meer Trends, ontwikkelingen en nieuws']
 
 - url: https://www.lively.nl/en/blogs/tinder-for-business-events-the-power-of-matchmaking-software
@@ -1151,9 +1191,9 @@ Data-Removal-Request: info@lively.nl
   description: As an event organizer, you're always looking for new ways to improve the quality of your event. A good way to get this done is to make it easier for participants to get in touch with each other. Af...
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'blog']
-  content_length: 9682
-  word_count: 1355
+  tags: ['blog', 'software', 'event', 'app']
+  content_length: 9828
+  word_count: 1375
   main_headings: ['Tinder for business events? The power of matchmaking software', 'Why use a matchmaking tool?', 'How exactly does such a B2B matchmaking tool work?']
 
 - url: https://www.lively.nl/blogs/tinder-voor-zakelijke-events-de-kracht-van-matchmaking-software
@@ -1161,9 +1201,9 @@ Data-Removal-Request: info@lively.nl
   description: Als eventorganisator ben je altijd op zoek naar nieuwe manieren om de kwaliteit van je evenement te verbeteren. Een goede manier om dit voor elkaar te krijgen is door deelnemers makkelijker met elk...
   language: nl
   page_type: blogs
-  tags: ['registratie', 'app', 'software', 'blog', 'event']
-  content_length: 8174
-  word_count: 1117
+  tags: ['event', 'app', 'blog', 'software', 'registratie']
+  content_length: 8320
+  word_count: 1137
   main_headings: ['Tinder voor zakelijke events? De kracht van matchmaking software', 'Waarom zou je gebruik maken van een matchmaking tool?', 'Hoe werkt zoâ\x80\x99n B2B matchmaking tool nu precies?']
 
 - url: https://www.lively.nl/type-event/beurs-registratie-en-beursapp
@@ -1171,7 +1211,7 @@ Data-Removal-Request: info@lively.nl
   description: Optimaliseer jouw beurs met een beursapp en beurs registratie software. Van lead scanning en standreserveringen tot badge printing en mobiele event apps. Verhoog exposantenretentie en verbeter de b...
   language: nl
   page_type: type-event
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 6426
   word_count: 759
   main_headings: ['Beurzen & Exposities', 'Registratie', 'Exposantenhandboek & Taken']
@@ -1191,7 +1231,7 @@ Data-Removal-Request: info@lively.nl
   description: Stroomlijn jouw congres met onze congres app en congres registratie software. Van sessie-registratie en betalingen tot abstract management en badge printing. Verhoog efficiÃ«ntie, merkbeleving en s...
   language: nl
   page_type: type-event
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 6937
   word_count: 805
   main_headings: ['Congressen & Conferenties', 'Event website', 'Workshop & Sessie Registratie']
@@ -1211,7 +1251,7 @@ Data-Removal-Request: info@lively.nl
   description: CreÃ«er onvergetelijke ervaringen met event registratie software en event marketing software. Van uitnodigingen en event websites tot badge printing en mobiele apps. Versterk klantrelaties, generee...
   language: nl
   page_type: type-event
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 5431
   word_count: 643
   main_headings: ['Field Marketing & Relatie Events', 'Uitnodigingen & Reminders', 'Mobile Event App']
@@ -1241,7 +1281,7 @@ Data-Removal-Request: info@lively.nl
   description: Organiseer impactvolle online en hybride events met tools voor registratie, live streams en publieksinteractie. CreÃ«er een professioneel platform, verhoog betrokkenheid met polls en Q&Aâs, en an...
   language: nl
   page_type: type-event
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 5197
   word_count: 604
   main_headings: ['Online & Hybride Events', 'Uitnodigingen & Reminders', 'Registratie']
@@ -1251,7 +1291,7 @@ Data-Removal-Request: info@lively.nl
   description: Bouw waardevolle connecties met onze netwerkapp en event tools. Van matchmaking en mobiele event apps tot registratie en badge printing. Bespaar tijd en vergroot interactie vÃ³Ã³r, tijdens en na jo...
   language: nl
   page_type: type-event
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 7123
   word_count: 841
   main_headings: ['Community, Summits, Netwerk', 'Registratie', 'Sponsoring & Advertenties']
@@ -1271,7 +1311,7 @@ Data-Removal-Request: info@lively.nl
   description: Stroomlijn jouw recruitment events en open dagen met opendag registratie en een opendag app. Van sessiekeuze en badge printing tot netwerktools en personalisatie. Maak een sterke eerste indruk en b...
   language: nl
   page_type: type-event
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 5994
   word_count: 708
   main_headings: ['Recruitment & Open dagen', 'Registratie', 'Workshop & Sessie Registratie']
@@ -1299,7 +1339,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: videos
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 1626
   word_count: 163
   main_headings: ['7 veel voorkomende beperkingen in event software', 'We helpen je graag verder', 'Vrijblijvend gesprek']
@@ -1308,7 +1348,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: videos
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 1479
   word_count: 137
   main_headings: ['Boost het aantal registraties met deze functionaliteiten uit event tech', 'We helpen je graag verder', 'Vrijblijvend gesprek']
@@ -1335,7 +1375,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: videos
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 1636
   word_count: 163
   main_headings: ['Overwegingen om event management software te gebruiken naast je CRM / Marketing Platform', 'We helpen je graag verder', 'Vrijblijvend gesprek']
@@ -1344,7 +1384,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: videos
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 1617
   word_count: 157
   main_headings: ['Ticketing software vs. Registratie Software', 'We helpen je graag verder', 'Vrijblijvend gesprek']
@@ -1362,7 +1402,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: vacatures
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 5101
   word_count: 628
   main_headings: ['Allround IT-support specialist (NL)', 'Over Onsâ\x80\x8d', 'Functieomschrijving']
@@ -1371,7 +1411,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: en
   page_type: en
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 5048
   word_count: 627
   main_headings: ['Allround IT-support specialist (NL)', 'Over Onsâ\x80\x8d', 'Functieomschrijving']
@@ -1380,7 +1420,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: vacatures
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 5081
   word_count: 655
   main_headings: ['Customer Success Manager (NL)', 'Over deze baan', 'Vereisten']
@@ -1398,7 +1438,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: vacatures
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 5381
   word_count: 736
   main_headings: ['Onsite Registratie & Support Specialist (NL)', 'Over deze baan', 'Vereisten']
@@ -1416,7 +1456,7 @@ Data-Removal-Request: info@lively.nl
   title: Lively
   language: nl
   page_type: vacatures
-  tags: ['software', 'event', 'app', 'registratie']
+  tags: ['software', 'registratie', 'event', 'app']
   content_length: 3388
   word_count: 390
   main_headings: ['Technisch project manager (NL)', 'Werkzaamheden', 'Wat bieden wij jou aan']
@@ -1432,10 +1472,10 @@ Data-Removal-Request: info@lively.nl
 
 
 # Website Statistics
-# Total pages analyzed: 148
-# Total word count: 117,224
-# Average words per page: 792
+# Total pages analyzed: 152
+# Total word count: 121,443
+# Average words per page: 798
 # Languages: en, nl
-# Page types: vacatures, event-software, privacy-policy-cookie-policy, staging, over-ons, kennis, contact, demo-aanvragen, congressen-conferenties, type-event, expertise, bedankt-nieuwsbrief, blogs, prijzen, bedankt-utm-nooverride-1, nieuwsbrief, prijsberekening, videos, home, bedankt-prijsberekening-utm-nooverride-1, en, bedankt-demo-aanvragen, cases
+# Page types: home, en, bedankt-demo-aanvragen, type-event, demo-aanvragen, bedankt-nieuwsbrief, privacy-policy-cookie-policy, videos, kennis, contact, over-ons, bedankt-prijsberekening-utm-nooverride-1, expertise, event-software, cases, bedankt-utm-nooverride-1, staging, vacatures, nieuwsbrief, congressen-conferenties, blogs, prijzen, prijsberekening
 
-# Generated on: 2025-10-06 03:36:24
+# Generated on: 2025-10-13 03:44:35
